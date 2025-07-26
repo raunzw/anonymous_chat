@@ -23,7 +23,7 @@ A real-time anonymous chat application built with Express.js and Socket.IO that 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/anonymous-chatbot.git
+   git clone https://github.com/raunz/anonymous_chat.git
    cd anonymous-chatbot
    ```
 
